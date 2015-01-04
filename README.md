@@ -1,4 +1,4 @@
 /etc/hosts bundle for TextMate
 ==============================
     mate /etc/hosts
-IPV6 will be available later...
+IPV6 is available now!
