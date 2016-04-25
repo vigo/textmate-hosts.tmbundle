@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>comment</string>
+	<string>comments</string>
 	<key>scope</key>
-	<string>source.hosts-config</string>
+	<string>source.hosts-file</string>
 	<key>settings</key>
 	<dict>
 		<key>shellVariables</key>
@@ -14,11 +14,11 @@
 				<key>name</key>
 				<string>TM_COMMENT_START</string>
 				<key>value</key>
-				<string>#</string>
+				<string># </string>
 			</dict>
 		</array>
 	</dict>
 	<key>uuid</key>
-	<string>D3CC64F2-2D04-4212-B403-9937D45BDDA1</string>
+	<string>6E29C7CA-9019-48F6-B96A-445EF4901CAA</string>
 </dict>
 </plist>

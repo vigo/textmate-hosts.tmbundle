@@ -3,7 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>Hosts Config</string>
+	<string>Hosts</string>
+	<key>ordering</key>
+	<array>
+		<string>46003B30-F138-4C78-A93F-59F30950868C</string>
+	</array>
 	<key>uuid</key>
 	<string>CFF0934E-C1EC-4D72-A248-535F28810426</string>
 </dict>

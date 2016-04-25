@@ -1,4 +1,4 @@
-# /etc/hosts bundle for TextMate
+# /etc/hosts bundle for TextMate 1
 
 This bundle helps you to display `hosts` file more readable :)
 
@@ -12,9 +12,24 @@ osascript -e 'tell app "TextMate" to reload bundles'
 
 ## Usage
 
-    mate /etc/hosts
+```bash
+mate /etc/hosts
+```
+
+## Note
+
+If you add special element to your color theme (*TextMate > Preferences > Fonts & Colors*)
+you can see the ip addresses in color (*Scope Selector*):
+
+    punctuation.definition.ip-address.source.hosts-file
+
 
 ## Change Log
 
-* **2015-01-06**  
-IPV6 is available now! (via [WeZZard](https://github.com/WeZZard))
+**2016-04-25**
+
+* Fixed prefs + languaage.
+
+**2015-01-06**
+
+* IPV6 is available now! (via [WeZZard](https://github.com/WeZZard))
